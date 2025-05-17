@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, it's nice to meet you! 👋
+
+I'm Erin Kolp, a passionate DevOps Engineer out of Southern Idaho, United States.
+
 
 <!--
 **erinlkolp/erinlkolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
