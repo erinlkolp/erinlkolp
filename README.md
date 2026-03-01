@@ -1,6 +1,6 @@
 ## Hi there, it's nice to meet you! 👋
 
-I'm Erin Kolp, a passionate DevOps Engineer out of Southern Idaho, United States.
+I'm Erin Kolp, a DevOps Engineer out of Southern Idaho, United States.
 
 Here you will find my collection of Open Source software, including but not limited to:
 
