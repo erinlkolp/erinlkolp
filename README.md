@@ -1,6 +1,6 @@
 ## Hi there, it's nice to meet you! 👋
 
-I'm Erin Kolp, a Staff DevOps Engineer out of Southern Idaho, United States.
+I'm Erin Kolp, a Staff DevOps Engineer working in FinTech out of Southern Idaho, United States.
 
 Here you will find my collection of Open Source software, including but not limited to:
 
