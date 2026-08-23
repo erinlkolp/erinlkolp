@@ -8,5 +8,6 @@ Here you will find my collection of Open Source software, including but not limi
 - CI/CD for the Database
 - Python Projects
 - Ruby Projects
+- Utilities for Google Glass
 - Occasional CDK/Terraform Projects
 - AI Tools & More!
